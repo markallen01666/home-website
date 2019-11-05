@@ -5,6 +5,7 @@ import React, { Component } from "react";
 import "./App.css";
 import NavBar from "./NavBar";
 import HomePage from "./HomePage";
+import Services from "./Services";
 import About from "./About";
 import Contact from "./Contact";
 import Reviews from "./Reviews";
@@ -16,6 +17,7 @@ class App extends Component {
       <div className="App">
         <NavBar />
         <HomePage />
+        <Services />
         <About />
         <Contact />
         <Reviews />

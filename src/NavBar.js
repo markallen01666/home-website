@@ -9,6 +9,7 @@ class NavBar extends Component {
       <div className="App-navbar">
         <ul>
           <li>Home</li>
+          <li>Services</li>
           <li>About</li>
           <li>Reviews</li>
           <li>Contact</li>

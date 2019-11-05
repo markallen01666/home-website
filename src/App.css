@@ -24,14 +24,15 @@
 .App-homepage {
   background-color: #7f8fa6;
 }
+.App-services {
+  background-color: #8c7ae6;
+}
 .App-about {
   background-color: #c23616;
 }
-
 .App-contact {
   background-color: #e1b12c;
 }
-
 .App-reviews {
   background-color: #487eb0;
 }
