@@ -7,7 +7,7 @@ class Services extends Component {
   render() {
     return (
       <div>
-        <div className="App-body App-services">
+        <div className="App-body App-services text-center">
           <h1>Services I provide</h1>
         </div>
       </div>

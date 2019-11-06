@@ -7,7 +7,7 @@ class Reviews extends Component {
   render() {
     return (
       <div>
-        <div className="App-body App-reviews">
+        <div className="App-body App-reviews text-center">
           <h1>Feedback from my customers!</h1>
         </div>
       </div>

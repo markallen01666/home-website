@@ -7,7 +7,7 @@ class Contact extends Component {
   render() {
     return (
       <div>
-        <div className="App-body App-contact">
+        <div className="App-body App-contact text-center">
           <h1>Get in touch!</h1>
         </div>
       </div>

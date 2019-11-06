@@ -7,7 +7,7 @@ class HomePage extends Component {
   render() {
     return (
       <div>
-        <div className="App-body App-homepage">
+        <div className="App-body App-homepage text-center">
           <h1>My home page content!</h1>
         </div>
       </div>
