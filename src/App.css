@@ -1,14 +1,14 @@
 .App-body {
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
   color: white;
 }
 
+.App-content {
+  padding-top: 30vh;
+}
+
 .App-homepage {
-  background-color: #7f8fa6;
+  background-color: #273c75;
 }
 .App-services {
   background-color: #8c7ae6;
@@ -24,12 +24,15 @@
 }
 
 .App-footer {
-  background-color: #2f3640;
-  min-height: 10vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  background-color: #4F4F4F;
   font-size: calc(10px + 0.5vmin);
+  min-height: 5vh;
   color: white;
+}
+
+.padding-top-5vh {
+  padding-top: 5vh;
+}
+.padding-bottom-5vh {
+  padding-bottom: 5vh;
 }
