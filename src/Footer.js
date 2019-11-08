@@ -11,7 +11,6 @@ class Footer extends Component {
           <div className="row padding-top-5vh">
             <div className="col-sm text-sm-left">
               <p><strong>Mark Allen - Web Developer</strong></p>
-              <p>&copy; 2019 - M Allen</p>
               <p>
               <a
                   href="https://markallenwebdeveloper.co.uk"
