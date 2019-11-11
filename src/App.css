@@ -4,7 +4,7 @@
 }
 
 .App-content {
-  padding-top: 20vh;
+  padding-top: 25vh;
 }
 
 .App-homepage {
@@ -35,4 +35,33 @@
 }
 .padding-bottom-5vh {
   padding-bottom: 5vh;
+}
+
+.card {
+  color: grey;
+}
+.card-icon-1 {
+  color: #227093;
+}
+.card-icon-2 {
+  color: #cd6133;
+}
+.card-icon-3 {
+  color: #474787;
+}
+.card-icon-4 {
+  color: #b33939;
+}
+
+/* Contact form */
+.gotcha {
+  display: none;
+}
+.input-field {
+  width: 100%;
+}
+@media only screen and (min-width: 800px) {
+  .input-field {
+    width: 70%;
+  }
 }
